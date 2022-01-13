@@ -1,0 +1,15 @@
+h1 {
+  font-family: 'Source Code Pro', monospace;
+  color: #BDD4E7;
+}
+
+html {
+  background-color: black;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
